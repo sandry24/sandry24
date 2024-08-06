@@ -1,22 +1,16 @@
-## Alexandru Grosu
+# Hi there! I'm Alexandru 👋
 
-Hi there! I'm Alexandru, a 18-year-old competitive programmer from Moldova.
+I'm an 18-year-old competitive programmer from Moldova. Currently studying Computer Science at TU Delft. 
 
-- Current CSE student at TU Delft
 - I'm currently learning about Web Development
 - I'm currently working on a social media web application
 
-<!--
-**sandry24/sandry24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 My GitHub stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandry24&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sandry24's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandry24&theme=tokyonight&hide_border=true" alt="sandry24's Streak" height="165">
+  </p>
+</div>
