@@ -1,4 +1,10 @@
-## Hi there 👋
+## Alexandru Grosu
+
+Hi there! I'm Alexandru, a 18-year-old tech enthusiast from Moldova.
+
+- Current CSE student at TU Delft
+- I'm currently learning about Web Development
+- I'm currently working on a social media web application
 
 <!--
 **sandry24/sandry24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
