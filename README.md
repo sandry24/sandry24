@@ -2,8 +2,8 @@
 
 I'm an 18-year-old competitive programmer from Moldova. Currently studying Computer Science at TU Delft. 
 
-- I'm currently learning about Web Development
-- I'm currently working on a social media web application
+- 🌐 I'm currently learning about Web Development
+- 🛠️ I'm currently working on a social media web application
 
 ## 📈 My GitHub stats
 
