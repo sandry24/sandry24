@@ -1,6 +1,6 @@
 ## Alexandru Grosu
 
-Hi there! I'm Alexandru, a 18-year-old tech enthusiast from Moldova.
+Hi there! I'm Alexandru, a 18-year-old competitive programmer from Moldova.
 
 - Current CSE student at TU Delft
 - I'm currently learning about Web Development
